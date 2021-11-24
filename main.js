@@ -5,8 +5,7 @@ const hand = document.querySelector(".hand");
 let clock = 0;
 ////function to increase the time by 1
 function time(){
-     hand.style.transform = `rotate(${clock+=6}deg)`;
-	 
+     hand.style.transform = `rotate(${clock+=6}deg)`;	 
 }
 
 //// set interval to call the function
