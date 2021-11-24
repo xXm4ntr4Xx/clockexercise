@@ -9,7 +9,6 @@ function time(){
 	 
 }
 
-
 //// set interval to call the function
 setInterval(()=>time(),1000);
 
