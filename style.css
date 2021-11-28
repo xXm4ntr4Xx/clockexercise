@@ -42,7 +42,6 @@ body {
   .hide {
     display: none;
   }
-  
   #message-container {
     position: fixed;
     display: flex;
