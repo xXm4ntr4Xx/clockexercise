@@ -27,6 +27,18 @@ body {
     width: 5px;
     border-top: 120px solid black;
   }
+  .hand1{
+    position: absolute;
+    height: 70px;
+    width: 7px;
+    border-top: 120px solid rgb(238, 7, 7);
+  }
+  .hand2 {
+    position: absolute;
+    height: 40px;
+    width: 10px;
+    border-top: 120px solid rgb(46, 7, 187);
+  }
   .hide {
     display: none;
   }
